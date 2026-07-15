@@ -21,10 +21,11 @@ Bem-vindo(a) ao meu portfólio! Este projeto foi desenvolvido para apresentar me
 Clone este repositório:
 
 ```bash
-git clone https://github.com/gabi07777/nome-do-repositorio.git
+git clone https://github.com/gabi07777/portfolio.git
 ```
 
-Ou abra o arquivo `index.html` diretamente no navegador.
+Ou acesse diretamente pelo GitHub:
+**https://github.com/gabi07777/portfolio**
 
 ## 👩‍💻 Autora
 
